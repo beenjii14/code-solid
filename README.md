@@ -2,7 +2,7 @@
 
 Clone or download the project and then:
 
-```
+```bash
 yarn install
 or
 npm install
@@ -10,7 +10,7 @@ npm install
 
 Command to execute the project
 
-```
+```bash
 yarn dev
 or
 npm run dev
